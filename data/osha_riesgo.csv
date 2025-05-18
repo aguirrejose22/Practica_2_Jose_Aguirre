@@ -1,0 +1,201 @@
+descripcion_riesgo,medida_seguridad,años_implementado,riesgo_inicial,riesgo_estimado
+Corte de dedo en línea de sellado,Scanner Láser,3,0.89,0.74
+Tetanización por contacto eléctrico con servo,Cortina Óptica,5,0.98,0.73
+Moretones severos por impacto de cinta transportadora,IEC 62061,3,0.61,0.46
+Atrapamiento de brazo en prensa hidráulica,IEC 62061,5,0.6,0.35
+Corte profundo en brazo por cuchilla sin enclavamiento,ISO 13849,1,0.92,0.87
+Accidente mortal por acceso no autorizado a zona de prensado,LOTO,1,0.87,0.82
+Atrapamiento de brazo en prensa hidráulica,ISO 13849,2,0.97,0.87
+Proyección de esquirla en ojo sin gafas de seguridad,IEC 62061,2,0.65,0.55
+Golpe directo de brazo robótico sin escáner de seguridad,ISO 13849,4,0.82,0.62
+Corte profundo en brazo por cuchilla sin enclavamiento,Scanner Láser,5,0.92,0.67
+Corte profundo en brazo por cuchilla sin enclavamiento,LOTO,3,0.69,0.54
+Corte de dedo en línea de sellado,LOTO,1,0.97,0.92
+Moretones severos por impacto de cinta transportadora,Resguardos Fijos,4,0.66,0.46
+Moretones severos por impacto de cinta transportadora,Cortina Óptica,0,0.74,0.74
+Corte profundo en brazo por cuchilla sin enclavamiento,Resguardos Fijos,0,0.73,0.73
+Atrapamiento de brazo en prensa hidráulica,Resguardos Fijos,2,0.79,0.69
+Corte profundo en brazo por cuchilla sin enclavamiento,Cortina Óptica,1,0.66,0.61
+Corte de dedo en línea de sellado,Resguardos Fijos,4,1.0,0.8
+Amputación de pierna por falta de resguardo,Scanner Láser,3,0.65,0.5
+Fractura por caída desde plataforma sin barandas,ISO 13849,3,0.67,0.52
+Moretones severos por impacto de cinta transportadora,LOTO,2,0.99,0.89
+Moretones severos por impacto de cinta transportadora,IEC 62061,0,0.64,0.64
+Fractura por caída desde plataforma sin barandas,IEC 62061,1,0.88,0.83
+Accidente mortal por acceso no autorizado a zona de prensado,ISO 13849,1,0.83,0.78
+Accidente mortal por acceso no autorizado a zona de prensado,IEC 62061,4,0.65,0.45
+Corte profundo en brazo por cuchilla sin enclavamiento,ISO 13849,2,0.95,0.85
+Fractura por caída desde plataforma sin barandas,IEC 62061,0,0.93,0.93
+Golpe directo de brazo robótico sin escáner de seguridad,ISO 13849,3,0.99,0.84
+Corte de dedo en línea de sellado,IEC 62061,0,0.9,0.9
+Tetanización por contacto eléctrico con servo,LOTO,4,0.63,0.43
+Moretones severos por impacto de cinta transportadora,Scanner Láser,2,0.71,0.61
+Amputación de pierna por falta de resguardo,IEC 62061,4,0.99,0.79
+Atrapamiento de brazo en prensa hidráulica,IEC 62061,0,0.81,0.81
+Corte profundo en brazo por cuchilla sin enclavamiento,ISO 13849,2,0.8,0.7
+Tetanización por contacto eléctrico con servo,Cortina Óptica,1,1.0,0.95
+Moretones severos por impacto de cinta transportadora,Resguardos Fijos,4,0.65,0.45
+Amputación de pierna por falta de resguardo,IEC 62061,2,0.96,0.86
+Amputación de pierna por falta de resguardo,IEC 62061,4,1.0,0.8
+Atrapamiento de brazo en prensa hidráulica,ISO 13849,5,0.65,0.4
+Fractura por caída desde plataforma sin barandas,Cortina Óptica,4,0.61,0.41
+Fractura por caída desde plataforma sin barandas,IEC 62061,3,0.77,0.62
+Proyección de esquirla en ojo sin gafas de seguridad,Resguardos Fijos,3,0.69,0.54
+Amputación de pierna por falta de resguardo,IEC 62061,4,0.72,0.52
+Fractura por caída desde plataforma sin barandas,Resguardos Fijos,4,0.9,0.7
+Moretones severos por impacto de cinta transportadora,ISO 13849,4,0.79,0.59
+Golpe directo de brazo robótico sin escáner de seguridad,LOTO,4,0.75,0.55
+Moretones severos por impacto de cinta transportadora,Resguardos Fijos,4,0.66,0.46
+Moretones severos por impacto de cinta transportadora,Cortina Óptica,1,0.67,0.62
+Corte profundo en brazo por cuchilla sin enclavamiento,LOTO,2,0.94,0.84
+Amputación de pierna por falta de resguardo,LOTO,1,0.9,0.85
+Atrapamiento de brazo en prensa hidráulica,Resguardos Fijos,1,0.61,0.56
+Fractura por caída desde plataforma sin barandas,Resguardos Fijos,0,0.64,0.64
+Corte profundo en brazo por cuchilla sin enclavamiento,ISO 13849,4,0.96,0.76
+Accidente mortal por acceso no autorizado a zona de prensado,ISO 13849,4,0.78,0.58
+Tetanización por contacto eléctrico con servo,Scanner Láser,3,0.83,0.68
+Corte de dedo en línea de sellado,LOTO,0,0.72,0.72
+Tetanización por contacto eléctrico con servo,ISO 13849,2,0.92,0.82
+Amputación de pierna por falta de resguardo,Resguardos Fijos,4,0.62,0.42
+Corte profundo en brazo por cuchilla sin enclavamiento,Cortina Óptica,3,0.86,0.71
+Amputación de pierna por falta de resguardo,LOTO,2,0.64,0.54
+Amputación de pierna por falta de resguardo,IEC 62061,0,0.93,0.93
+Atrapamiento de brazo en prensa hidráulica,LOTO,3,0.76,0.61
+Golpe directo de brazo robótico sin escáner de seguridad,Cortina Óptica,3,0.65,0.5
+Amputación de pierna por falta de resguardo,Scanner Láser,3,0.86,0.71
+Amputación de pierna por falta de resguardo,IEC 62061,4,0.85,0.65
+Fractura por caída desde plataforma sin barandas,Scanner Láser,2,0.7,0.6
+Atrapamiento de brazo en prensa hidráulica,LOTO,0,0.67,0.67
+Fractura por caída desde plataforma sin barandas,Cortina Óptica,0,0.74,0.74
+Fractura por caída desde plataforma sin barandas,Scanner Láser,3,0.98,0.83
+Golpe directo de brazo robótico sin escáner de seguridad,Cortina Óptica,5,0.84,0.59
+Corte profundo en brazo por cuchilla sin enclavamiento,Cortina Óptica,2,0.69,0.59
+Accidente mortal por acceso no autorizado a zona de prensado,IEC 62061,5,0.68,0.43
+Tetanización por contacto eléctrico con servo,IEC 62061,4,0.92,0.72
+Tetanización por contacto eléctrico con servo,ISO 13849,3,0.77,0.62
+Moretones severos por impacto de cinta transportadora,LOTO,3,0.66,0.51
+Fractura por caída desde plataforma sin barandas,Cortina Óptica,4,0.61,0.41
+Amputación de pierna por falta de resguardo,Resguardos Fijos,4,0.83,0.63
+Amputación de pierna por falta de resguardo,Cortina Óptica,4,0.7,0.5
+Atrapamiento de brazo en prensa hidráulica,Scanner Láser,3,0.97,0.82
+Accidente mortal por acceso no autorizado a zona de prensado,IEC 62061,5,0.76,0.51
+Accidente mortal por acceso no autorizado a zona de prensado,IEC 62061,2,0.74,0.64
+Golpe directo de brazo robótico sin escáner de seguridad,Scanner Láser,4,0.95,0.75
+Moretones severos por impacto de cinta transportadora,Cortina Óptica,5,0.82,0.57
+Accidente mortal por acceso no autorizado a zona de prensado,LOTO,1,0.84,0.79
+Accidente mortal por acceso no autorizado a zona de prensado,Resguardos Fijos,4,0.8,0.6
+Accidente mortal por acceso no autorizado a zona de prensado,Scanner Láser,3,0.63,0.48
+Corte de dedo en línea de sellado,LOTO,2,0.62,0.52
+Moretones severos por impacto de cinta transportadora,ISO 13849,4,0.72,0.52
+Proyección de esquirla en ojo sin gafas de seguridad,Scanner Láser,0,0.74,0.74
+Corte profundo en brazo por cuchilla sin enclavamiento,Resguardos Fijos,5,0.94,0.69
+Proyección de esquirla en ojo sin gafas de seguridad,ISO 13849,5,0.9,0.65
+Proyección de esquirla en ojo sin gafas de seguridad,Resguardos Fijos,0,0.91,0.91
+Corte profundo en brazo por cuchilla sin enclavamiento,Resguardos Fijos,0,0.73,0.73
+Moretones severos por impacto de cinta transportadora,IEC 62061,2,0.78,0.68
+Proyección de esquirla en ojo sin gafas de seguridad,LOTO,5,0.84,0.59
+Tetanización por contacto eléctrico con servo,LOTO,1,0.8,0.75
+Corte profundo en brazo por cuchilla sin enclavamiento,Resguardos Fijos,5,0.71,0.46
+Fractura por caída desde plataforma sin barandas,Resguardos Fijos,5,0.91,0.66
+Moretones severos por impacto de cinta transportadora,Cortina Óptica,1,0.79,0.74
+Proyección de esquirla en ojo sin gafas de seguridad,Resguardos Fijos,2,0.72,0.62
+Golpe directo de brazo robótico sin escáner de seguridad,IEC 62061,1,0.7,0.65
+Corte de dedo en línea de sellado,LOTO,3,0.91,0.76
+Moretones severos por impacto de cinta transportadora,Resguardos Fijos,5,0.8,0.55
+Accidente mortal por acceso no autorizado a zona de prensado,IEC 62061,5,0.98,0.73
+Golpe directo de brazo robótico sin escáner de seguridad,LOTO,3,0.73,0.58
+Tetanización por contacto eléctrico con servo,IEC 62061,5,0.61,0.36
+Accidente mortal por acceso no autorizado a zona de prensado,ISO 13849,2,0.73,0.63
+Corte de dedo en línea de sellado,ISO 13849,4,0.83,0.63
+Amputación de pierna por falta de resguardo,LOTO,0,0.9,0.9
+Atrapamiento de brazo en prensa hidráulica,ISO 13849,4,0.81,0.61
+Corte profundo en brazo por cuchilla sin enclavamiento,ISO 13849,3,0.9,0.75
+Tetanización por contacto eléctrico con servo,Resguardos Fijos,4,0.82,0.62
+Proyección de esquirla en ojo sin gafas de seguridad,Scanner Láser,2,0.72,0.62
+Moretones severos por impacto de cinta transportadora,IEC 62061,4,0.95,0.75
+Corte profundo en brazo por cuchilla sin enclavamiento,IEC 62061,1,0.75,0.7
+Accidente mortal por acceso no autorizado a zona de prensado,Cortina Óptica,3,0.93,0.78
+Fractura por caída desde plataforma sin barandas,Cortina Óptica,1,0.91,0.86
+Accidente mortal por acceso no autorizado a zona de prensado,Scanner Láser,3,0.83,0.68
+Proyección de esquirla en ojo sin gafas de seguridad,IEC 62061,0,0.87,0.87
+Accidente mortal por acceso no autorizado a zona de prensado,Resguardos Fijos,1,0.9,0.85
+Corte de dedo en línea de sellado,Scanner Láser,2,0.68,0.58
+Tetanización por contacto eléctrico con servo,LOTO,1,0.79,0.74
+Moretones severos por impacto de cinta transportadora,Cortina Óptica,4,1.0,0.8
+Golpe directo de brazo robótico sin escáner de seguridad,Cortina Óptica,2,0.87,0.77
+Corte profundo en brazo por cuchilla sin enclavamiento,Cortina Óptica,0,0.94,0.94
+Accidente mortal por acceso no autorizado a zona de prensado,Resguardos Fijos,3,0.63,0.48
+Atrapamiento de brazo en prensa hidráulica,Scanner Láser,5,0.71,0.46
+Corte profundo en brazo por cuchilla sin enclavamiento,Resguardos Fijos,1,0.65,0.6
+Accidente mortal por acceso no autorizado a zona de prensado,ISO 13849,1,0.66,0.61
+Accidente mortal por acceso no autorizado a zona de prensado,LOTO,0,0.76,0.76
+Proyección de esquirla en ojo sin gafas de seguridad,Resguardos Fijos,4,0.81,0.61
+Proyección de esquirla en ojo sin gafas de seguridad,Resguardos Fijos,1,0.74,0.69
+Corte profundo en brazo por cuchilla sin enclavamiento,Cortina Óptica,0,0.61,0.61
+Tetanización por contacto eléctrico con servo,ISO 13849,3,0.93,0.78
+Moretones severos por impacto de cinta transportadora,Cortina Óptica,5,0.78,0.53
+Corte de dedo en línea de sellado,Resguardos Fijos,0,0.96,0.96
+Corte profundo en brazo por cuchilla sin enclavamiento,Scanner Láser,4,0.94,0.74
+Amputación de pierna por falta de resguardo,Scanner Láser,3,0.76,0.61
+Fractura por caída desde plataforma sin barandas,Resguardos Fijos,1,0.6,0.55
+Amputación de pierna por falta de resguardo,Scanner Láser,2,0.77,0.67
+Corte profundo en brazo por cuchilla sin enclavamiento,IEC 62061,0,0.71,0.71
+Accidente mortal por acceso no autorizado a zona de prensado,LOTO,1,0.6,0.55
+Amputación de pierna por falta de resguardo,LOTO,0,0.86,0.86
+Accidente mortal por acceso no autorizado a zona de prensado,Cortina Óptica,1,0.76,0.71
+Proyección de esquirla en ojo sin gafas de seguridad,Resguardos Fijos,5,0.61,0.36
+Moretones severos por impacto de cinta transportadora,Scanner Láser,2,0.83,0.73
+Atrapamiento de brazo en prensa hidráulica,Resguardos Fijos,0,0.8,0.8
+Golpe directo de brazo robótico sin escáner de seguridad,IEC 62061,1,0.71,0.66
+Proyección de esquirla en ojo sin gafas de seguridad,IEC 62061,3,0.79,0.64
+Corte de dedo en línea de sellado,LOTO,3,0.95,0.8
+Atrapamiento de brazo en prensa hidráulica,IEC 62061,0,0.65,0.65
+Moretones severos por impacto de cinta transportadora,Cortina Óptica,0,0.91,0.91
+Proyección de esquirla en ojo sin gafas de seguridad,LOTO,0,0.9,0.9
+Amputación de pierna por falta de resguardo,Scanner Láser,3,0.94,0.79
+Accidente mortal por acceso no autorizado a zona de prensado,Cortina Óptica,4,0.84,0.64
+Corte de dedo en línea de sellado,LOTO,3,0.83,0.68
+Corte profundo en brazo por cuchilla sin enclavamiento,Resguardos Fijos,2,0.81,0.71
+Proyección de esquirla en ojo sin gafas de seguridad,IEC 62061,5,0.6,0.35
+Corte profundo en brazo por cuchilla sin enclavamiento,Scanner Láser,2,0.75,0.65
+Accidente mortal por acceso no autorizado a zona de prensado,LOTO,0,0.89,0.89
+Tetanización por contacto eléctrico con servo,IEC 62061,4,0.83,0.63
+Atrapamiento de brazo en prensa hidráulica,ISO 13849,1,0.8,0.75
+Corte profundo en brazo por cuchilla sin enclavamiento,ISO 13849,0,0.72,0.72
+Accidente mortal por acceso no autorizado a zona de prensado,IEC 62061,4,0.69,0.49
+Proyección de esquirla en ojo sin gafas de seguridad,LOTO,2,0.74,0.64
+Golpe directo de brazo robótico sin escáner de seguridad,Resguardos Fijos,2,0.61,0.51
+Corte profundo en brazo por cuchilla sin enclavamiento,LOTO,3,0.63,0.48
+Golpe directo de brazo robótico sin escáner de seguridad,IEC 62061,0,0.69,0.69
+Moretones severos por impacto de cinta transportadora,IEC 62061,5,0.63,0.38
+Atrapamiento de brazo en prensa hidráulica,Scanner Láser,2,0.64,0.54
+Tetanización por contacto eléctrico con servo,LOTO,5,0.7,0.45
+Amputación de pierna por falta de resguardo,IEC 62061,1,0.99,0.94
+Atrapamiento de brazo en prensa hidráulica,Scanner Láser,2,0.79,0.69
+Tetanización por contacto eléctrico con servo,ISO 13849,5,1.0,0.75
+Fractura por caída desde plataforma sin barandas,LOTO,5,0.86,0.61
+Proyección de esquirla en ojo sin gafas de seguridad,Resguardos Fijos,5,0.79,0.54
+Corte profundo en brazo por cuchilla sin enclavamiento,IEC 62061,1,0.86,0.81
+Atrapamiento de brazo en prensa hidráulica,Cortina Óptica,2,0.86,0.76
+Proyección de esquirla en ojo sin gafas de seguridad,ISO 13849,1,0.68,0.63
+Fractura por caída desde plataforma sin barandas,Cortina Óptica,0,0.8,0.8
+Atrapamiento de brazo en prensa hidráulica,IEC 62061,3,0.63,0.48
+Accidente mortal por acceso no autorizado a zona de prensado,Cortina Óptica,0,0.71,0.71
+Amputación de pierna por falta de resguardo,LOTO,4,0.73,0.53
+Golpe directo de brazo robótico sin escáner de seguridad,IEC 62061,3,0.97,0.82
+Atrapamiento de brazo en prensa hidráulica,Resguardos Fijos,3,0.83,0.68
+Accidente mortal por acceso no autorizado a zona de prensado,IEC 62061,2,0.81,0.71
+Moretones severos por impacto de cinta transportadora,Scanner Láser,4,0.82,0.62
+Amputación de pierna por falta de resguardo,Resguardos Fijos,1,0.99,0.94
+Atrapamiento de brazo en prensa hidráulica,IEC 62061,1,0.94,0.89
+Atrapamiento de brazo en prensa hidráulica,Resguardos Fijos,0,0.78,0.78
+Corte profundo en brazo por cuchilla sin enclavamiento,Scanner Láser,3,0.74,0.59
+Fractura por caída desde plataforma sin barandas,IEC 62061,1,0.95,0.9
+Amputación de pierna por falta de resguardo,ISO 13849,3,0.76,0.61
+Corte de dedo en línea de sellado,Scanner Láser,5,0.88,0.63
+Atrapamiento de brazo en prensa hidráulica,Cortina Óptica,5,0.69,0.44
+Corte de dedo en línea de sellado,Cortina Óptica,2,0.89,0.79
+Moretones severos por impacto de cinta transportadora,Resguardos Fijos,4,0.84,0.64
+Amputación de pierna por falta de resguardo,Resguardos Fijos,1,0.85,0.8
+Corte profundo en brazo por cuchilla sin enclavamiento,Cortina Óptica,5,0.77,0.52
+Golpe directo de brazo robótico sin escáner de seguridad,IEC 62061,3,0.8,0.65

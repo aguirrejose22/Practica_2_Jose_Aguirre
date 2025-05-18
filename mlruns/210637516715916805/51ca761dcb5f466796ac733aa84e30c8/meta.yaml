@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/210637516715916805/51ca761dcb5f466796ac733aa84e30c8/artifacts
+end_time: 1747489427411
+entry_point_name: ''
+experiment_id: '210637516715916805'
+lifecycle_stage: active
+run_id: 51ca761dcb5f466796ac733aa84e30c8
+run_name: welcoming-snipe-848
+run_uuid: 51ca761dcb5f466796ac733aa84e30c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747489421011
+status: 3
+tags: []
+user_id: aguir

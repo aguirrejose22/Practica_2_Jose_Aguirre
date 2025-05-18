@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultado de Predicción</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="contenedor">
+        <img src="{{ url_for('static', filename='logo_utpl.png') }}" class="logo">
+        <h1>Proyección de Accidentes según Base de Datos OSHA</h1>
+
+        <div class="grafico">
+            <img src="{{ url_for('static', filename='curva_proyeccion.png') }}" width="700">
+        </div>
+
+        <div class="botones">
+            <a href="#" class="boton">Descripción del Riesgo</a>
+            <a href="#" class="boton">Frecuencia</a>
+        </div>
+
+        <div class="tabla-top">
+            <h2>Top 10 Descripciones de Riesgo</h2>
+            <table>
+                <tr><th>Descripción</th><th>Frecuencia</th></tr>
+                {% for desc, freq in top %}
+                <tr><td>{{ desc }}</td><td>{{ freq }}</td></tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <footer>
+            Universidad Técnica Particular de Loja<br>
+            Estudiante: Ing. José Gabriel Aguirre Andrade, MSc.<br>
+            Docente: PhD. Alexandra Cristina Gonzalez Eras
+        </footer>
+    </div>
+</body>
+</html>

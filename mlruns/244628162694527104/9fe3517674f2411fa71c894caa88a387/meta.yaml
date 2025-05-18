@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/244628162694527104/9fe3517674f2411fa71c894caa88a387/artifacts
+end_time: 1747436193264
+entry_point_name: ''
+experiment_id: '244628162694527104'
+lifecycle_stage: active
+run_id: 9fe3517674f2411fa71c894caa88a387
+run_name: wise-moth-786
+run_uuid: 9fe3517674f2411fa71c894caa88a387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747436187669
+status: 3
+tags: []
+user_id: aguir
